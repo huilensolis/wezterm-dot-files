@@ -157,7 +157,7 @@ return {
 
 	-- colors
 	colors = {
-		background = "#1C2025",
+		background = "#23272C",
 	},
 
 	-- General
